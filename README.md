@@ -68,23 +68,19 @@ ecommerce-api/
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
-###  Swagger UI
+### 🔹 Swagger UI
+![Swagger UI](images/swagger.png)
 
-(Add your Swagger screenshot here)
+### 🔹 Login & Token Response
+![Login](images/login.png)
 
-###  Login & Token Response
+### 🔹 Postman Request
+![Postman](images/postman.png)
 
-(Add login response screenshot)
-
-###  Postman Request with Bearer Token
-
-(Add Postman screenshot)
-
-###  Order API Response
-
-(Add final output screenshot)
+### 🔹 Order API Response
+![Order](images/order.png)
 
 ---
 
