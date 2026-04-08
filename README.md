@@ -4,7 +4,7 @@ A high-performance backend REST API for managing products, users, and orders, bu
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 API Base URL:
 https://ecommerce-fastapi-myor.onrender.com
