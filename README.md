@@ -26,7 +26,7 @@ https://ecommerce-fastapi-myor.onrender.com/docs
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend:** FastAPI (Python)
 * **Database:** PostgreSQL
@@ -37,7 +37,7 @@ https://ecommerce-fastapi-myor.onrender.com/docs
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ecommerce-api/
@@ -58,7 +58,7 @@ ecommerce-api/
 
 ---
 
-## 🔐 Authentication Flow
+##  Authentication Flow
 
 1. User registers with email & password
 2. Password is hashed using bcrypt
@@ -68,27 +68,27 @@ ecommerce-api/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔹 Swagger UI
+###  Swagger UI
 
 (Add your Swagger screenshot here)
 
-### 🔹 Login & Token Response
+###  Login & Token Response
 
 (Add login response screenshot)
 
-### 🔹 Postman Request with Bearer Token
+###  Postman Request with Bearer Token
 
 (Add Postman screenshot)
 
-### 🔹 Order API Response
+###  Order API Response
 
 (Add final output screenshot)
 
 ---
 
-## ⚙️ Setup Instructions (Local)
+##  Setup Instructions (Local)
 
 ### 1️⃣ Clone Repository
 
@@ -128,7 +128,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint       | Description               |
 | ------ | -------------- | ------------------------- |
@@ -140,7 +140,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 * Passwords stored as hashed values using bcrypt
 * JWT-based authentication for protected routes
@@ -149,13 +149,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🚀 Future Improvements
 
-*  Role-based access (Admin/User)
-*  Cart system
-*  Order history
-*  Advanced filtering & search
-*  Docker support
 
 ---
 
